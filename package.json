@@ -1,0 +1,18 @@
+{
+    "name": "daniel-app",
+    "version": "1.0.1",
+    "description": "",
+    "main": "server.js",
+    "author": "Gaspar Maghakyan",
+    "license": "MIT",
+    "dependencies": {
+        "cookie-parser": "^1.4.5",
+        "ejs": "^3.1.3",
+        "express": "^4.17.1",
+        "google-auth-library": "^6.0.6",
+        "googleapis": "^58.0.0",
+        "jsonwebtoken": "^8.5.1",
+        "mysql": "^2.18.1",
+        "winston": "^3.3.3"
+    }
+}
